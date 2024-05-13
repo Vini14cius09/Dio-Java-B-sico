@@ -11,7 +11,7 @@ public class Ipod implements ReprodutorMusical{
     }
 
     public void SelecionarMusica() {
-       System.out.println("Selecionar Musica");
+       System.out.println("Selecionando Musica");
     }
 
 }
