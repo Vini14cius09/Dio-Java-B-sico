@@ -1,7 +1,7 @@
 package UtilitariosCelular.NavegadorDeInternet;
 public interface NavegadorNaInternet  {
 
-    public void ExibirPagina();
-    public void AdicionarNovaAba();
-    public void Atualizar();
+    public void exibirPagina();
+    public void adicionarNovaAba();
+    public void atualizarPagina();
 }

@@ -2,15 +2,15 @@ package UtilitariosCelular.NavegadorDeInternet;
 
 public class Internet implements NavegadorNaInternet {
 
-    public void ExibirPagina() {
+    public void exibirPagina() {
         System.out.println("Exibindo pagina");
     }
 
-    public void AdicionarNovaAba() {
+    public void adicionarNovaAba() {
         System.out.println("Adicionando nova aba");
     }
 
-    public void Atualizar() {
+    public void atualizarPagina() {
         System.out.println("Atualizando pagina");
     }
 
